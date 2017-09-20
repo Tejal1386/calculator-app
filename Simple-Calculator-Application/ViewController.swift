@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     
     @IBAction func Numbers(_ sender: UIButton) {
     
+        //showing number on screen
         displayLabel.text! = displayLabel.text! + sender.titleLabel!.text!
      
     }
