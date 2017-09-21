@@ -5,6 +5,10 @@
 //  Created by Tejal Patel on 2017-09-17.
 //  Copyright © 2017 Centennial College. All rights reserved.
 //
+/*
+ Name : Tejal Patel
+ Student ID: 300972812
+ */
 
 import UIKit
 
